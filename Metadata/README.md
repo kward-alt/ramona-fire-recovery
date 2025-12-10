@@ -16,10 +16,10 @@
  
 6. 🌡️ Climate Trends (NOAA, 1998–2025) [Notebook 01_00_ramona_climate_change]
     
-📈 Combined Assessment:
-   • Within vs. outside burn areas
-   • Pre- and post-fire comparisons
-   • Long-term ecological change
+📈 Combined Assessment Includes:
+- Within vs. outside burn areas
+- re- and post-fire comparisons
+- Insights on long-term ecological change
 
 ---
 
