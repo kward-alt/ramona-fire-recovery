@@ -82,7 +82,7 @@ These fire boundaries are used throughout the project to:
 Together, the Cedar and Witch Creek perimeters provide the central spatial framework for analyzing how Ramona's landscape responded to two of the most significant wildfire events in California’s modern history.
 
 ---
-[Notebooks 03_landcover and Notebook 01_ndvi_recovery_timeseries]
+## [Notebooks 03_landcover and Notebook 01_ndvi_recovery_timeseries]
 
 🌿 Shrub Cover & NDVI 🌿
 
