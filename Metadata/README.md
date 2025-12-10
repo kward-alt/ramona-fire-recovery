@@ -28,7 +28,6 @@ Ramona CDP Boundary [Notebook 01_ramona_fire_perims]
    • Pre- and post-fire comparisons
    • Long-term ecological change
 
-
 ---
 
 This project analyzes climate trends, vegetation health, and land-cover change in Ramona, California before and after the **2003 Cedar Fire** and **2007 Witch Creek Fire**. These two major fires formed a “ring” around Ramona and continue to shape ecological conditions today.
@@ -92,7 +91,26 @@ Align NDVI and shrub-cover time series with pre- and post-fire periods
 Understand long-term ecological change in the Southern California chaparral biome
 
 Together, the Cedar and Witch Creek perimeters provide the central spatial framework for analyzing how Ramona's landscape responded to two of the most significant wildfire events in California’s modern history.
---
+
+---
+[Notebooks 03_landcover and Notebook 01_ndvi_recovery_timeseries]
+
+🌿 Shrub Cover & NDVI 🌿
+
+RCMAP Shrub Cover (2000–2024)
+Used to assess long-term recovery of chaparral vegetation, including:
+- % shrub cover inside vs. outside fire areas
+- east-west comparisons
+- time since fire effects
+
+NDVI (MODIS, via AppEEARS)
+Used to measure vegetation greenness and drought stress:
+- Annual NDVI composites
+- Multi-year recovery trajectories
+- Stability vs. volatility in greenness
+
+Both datasets help clarify short-term vs. long-term ecological change.
+
 ## 🧪 **Reproducibility** 🧪
 
 Ensure you create a Conda environment using the included **environment.yml**:
