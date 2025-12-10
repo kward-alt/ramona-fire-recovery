@@ -81,14 +81,10 @@ This project uses CAL FIRE's historic fire perimeter dataset to extract the two 
 Using spatial filtering and verification through fire names and alarm dates, the correct perimeters were isolated and clipped to the study area. The resulting polygons define the core regions for comparing vegetation recovery over time.
 
 These fire boundaries are used throughout the project to:
-
-Map the geographic extent of each fire
-
-Compare vegetation within vs. outside burn areas
-
-Align NDVI and shrub-cover time series with pre- and post-fire periods
-
-Understand long-term ecological change in the Southern California chaparral biome
+- Map the geographic extent of each fire
+- Compare vegetation within vs. outside burn areas
+- Align NDVI and shrub-cover time series with pre- and post-fire periods
+- Understand long-term ecological change in the Southern California chaparral biome
 
 Together, the Cedar and Witch Creek perimeters provide the central spatial framework for analyzing how Ramona's landscape responded to two of the most significant wildfire events in California’s modern history.
 
