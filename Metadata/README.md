@@ -27,7 +27,7 @@ Ramona CDP Boundary [Notebook 01_ramona_fire_perims]
    • Within vs. outside burn areas
    • Pre- and post-fire comparisons
    • Long-term ecological change
-
+```text
 ---
 
 This project analyzes climate trends, vegetation health, and land-cover change in Ramona, California before and after the **2003 Cedar Fire** and **2007 Witch Creek Fire**. These two major fires formed a “ring” around Ramona and continue to shape ecological conditions today.
