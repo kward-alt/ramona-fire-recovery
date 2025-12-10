@@ -3,21 +3,21 @@
 ## 🔥🌿 Ramona Fire Recovery Project — Analysis Pipeline
 
 ```text
-Ramona CDP Boundary [Notebook 02_ramona_fire_perims]
+Ramona CDP Boundary [Notebook 01_ramona_fire_perims]
         │
         ▼
-10 km Project Buffer [Notebook 02_ramona_fire_perims]
+10 km Project Buffer [Notebook 01_ramona_fire_perims]
         │
         ▼
-🔥 Fire Perimeters [Notebook 02_ramona_fire_perims]
+🔥 Fire Perimeters [Notebook 01_ramona_fire_perims]
    • Cedar Fire (2003)
    • Witch Creek Fire (2007)
         │
         ▼
-🌿 Shrub Cover (RCMAP, 2000–2020)
+🌿 Shrub Cover (RCMAP, 2000–2020) [Notebook folder 03_landcover w/4 notebooks]
         │
         ▼
-🌱 Vegetation Health (NDVI, MODIS/AppEEARS)
+🌱 Vegetation Health (NDVI, MODIS/AppEEARS) [Notebook 01_ndvi_recovery_timeseries]
         │
         ▼
 🌡️ Climate Trends (NOAA, 1998–2025) [Notebook 01_00_ramona_climate_change]
@@ -92,3 +92,11 @@ Align NDVI and shrub-cover time series with pre- and post-fire periods
 Understand long-term ecological change in the Southern California chaparral biome
 
 Together, the Cedar and Witch Creek perimeters provide the central spatial framework for analyzing how Ramona's landscape responded to two of the most significant wildfire events in California’s modern history.
+--
+## 🧪 **Reproducibility** 🧪
+
+Ensure you create a Conda environment using the included **environment.yml**:
+
+```bash
+conda env create -f environment.yml
+conda activate ramona-fire-env
