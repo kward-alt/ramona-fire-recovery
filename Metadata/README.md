@@ -1,7 +1,7 @@
 # Ramona Fire Recovery Project (2000–2020)
 
 ## 🔥🌿 Ramona Fire Recovery Project — Analysis Pipeline
-
+```
 Ramona CDP Boundary [Notebook 01_ramona_fire_perims]
         │
         ▼
