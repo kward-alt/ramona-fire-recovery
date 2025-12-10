@@ -1,0 +1,32 @@
+name: ramona-fire-env
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - notebook
+  - numpy
+  - pandas
+  - geopandas
+  - rasterio
+  - rioxarray
+  - xarray
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - shapely
+  - pyproj
+  - fiona
+  - hvplot
+  - holoviews
+  - bokeh
+  - cartopy
+  - tqdm
+  - requests
+  - pip
+  - pip:
+      - earthaccess  # NASA data access
+      - matplotlib-scalebar
+      - geocube
