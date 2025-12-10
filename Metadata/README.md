@@ -1,27 +1,21 @@
 # Ramona Fire Recovery Project (2000–2020)
 
 ## 🔥🌿 Ramona Fire Recovery Project — Analysis Pipeline
-```
-Ramona CDP Boundary [Notebook 01_ramona_fire_perims]
-        │
-        ▼
-10 km Project Buffer [Notebook 01_ramona_fire_perims]
-        │
-        ▼
-🔥 Fire Perimeters [Notebook 01_ramona_fire_perims]
+
+1. Ramona CDP Boundary [Notebook 01_ramona_fire_perims]
+       
+2. 10 km Project Buffer [Notebook 01_ramona_fire_perims]
+     
+3. 🔥 Fire Perimeters [Notebook 01_ramona_fire_perims]
    • Cedar Fire (2003)
    • Witch Creek Fire (2007)
-        │
-        ▼
-🌿 Shrub Cover (RCMAP, 2000–2020) [Notebook folder 03_landcover w/4 notebooks]
-        │
-        ▼
-🌱 Vegetation Health (NDVI, MODIS/AppEEARS) [Notebook 01_ndvi_recovery_timeseries]
-        │
-        ▼
-🌡️ Climate Trends (NOAA, 1998–2025) [Notebook 01_00_ramona_climate_change]
-        │
-        ▼
+     
+4. 🌿 Shrub Cover (RCMAP, 2000–2020) [Notebook folder 03_landcover w/4 notebooks]
+   
+5. 🌱 Vegetation Health (NDVI, MODIS/AppEEARS) [Notebook 01_ndvi_recovery_timeseries]
+ 
+6. 🌡️ Climate Trends (NOAA, 1998–2025) [Notebook 01_00_ramona_climate_change]
+    
 📈 Combined Assessment:
    • Within vs. outside burn areas
    • Pre- and post-fire comparisons
